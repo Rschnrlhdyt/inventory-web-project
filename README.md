@@ -1,8 +1,8 @@
-## *:information_source: Inventoryweb*
+## Inventoryweb
 Aplikasi ini bisa anda gunakan untuk mengontrol stock barang yang anda miliki sehingga jelas transaksi keluar dan masuk barang tersebut juga mempermudah kontrol barang tersebut.
 <br><br>
 
-## *:sparkles: Fitur*
+## Fitur
 * **Dashboard**
 * **Jenis Barang**
 * **Satuan Barang**
@@ -18,7 +18,7 @@ Aplikasi ini bisa anda gunakan untuk mengontrol stock barang yang anda miliki se
 * **Setting Hak Akses user per Role**
 * **Setting Menu (bisa tambah menu atau bisa hapus menu)**
 
-## *:rocket: Instalasi*
+## Instalasi
 #### :arrow_right: Clone Project / Download File
 Clone Project dengan perintah terminal `gitbash` sebagai berikut:
 ```
@@ -58,7 +58,7 @@ username: `operator` password: `12345678`
 <br>
 username: `manajer` password: `12345678`
 
-## *:desktop_computer: Preview*
+## Preview
 ![ad3c121d-1c33-4b7f-aa0f-5bb2ddce7cf6](https://user-images.githubusercontent.com/47371845/202890250-2c1e64c6-cc01-453f-b490-43eecab1e153.png)
 ![35ace435-364a-4687-ad3d-cb20c8919f54](https://user-images.githubusercontent.com/47371845/204803970-3270fa90-2d36-473d-b5fa-344ce6802d85.png)
 ![b0a513c2-c7e7-4098-860e-a67c620f315d](https://user-images.githubusercontent.com/47371845/204021044-fb76df11-c80a-4d54-b0b3-f58b223c91fb.png)
