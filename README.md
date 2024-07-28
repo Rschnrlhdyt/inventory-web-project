@@ -21,25 +21,11 @@ Untuk tampilannya saya sudah pasang template admin `bootstrap v5` yaitu `sash ad
 * **Setting Hak Akses user per Role**
 * **Setting Menu (bisa tambah menu atau bisa hapus menu)**
 
-## *:electric_plug: Plugin*
-* **Yajra Datatables**
-* **SweetAlert**
-* **jQuery**
-* **Datetime picker**
-
-## *:gear: Requirement*
-<p>
-<img alt="gambar" src="https://img.shields.io/badge/PHP%20-%5E8.1-green"/>
-<img alt="gambar" src="https://img.shields.io/badge/Node JS%20-%5E16.14.0-green"/>
-<img alt="gambar" src="https://img.shields.io/badge/Npm%20-%5E8.3.1-green"/>
-<img alt="gambar" src="https://img.shields.io/badge/Composer%20-%5E2.3.9-green"/>
-</p>
-
 ## *:rocket: Instalasi*
 #### :arrow_right: Clone Project / Download File
 Clone Project dengan perintah terminal `gitbash` sebagai berikut:
 ```
-git clone git@github.com:radhiant/laravel-inventoryweb.git
+git clone git@github.com:Rschnrlhdyt/inventory-web-project.git
 ```
 Atau bisa klik tombol download Zip dan extrak file tersebut
 #### :arrow_right: Buat Database
