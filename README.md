@@ -1,9 +1,6 @@
-![Inventoryweb-thumnail](https://user-images.githubusercontent.com/47371845/205918923-dcc3b42f-4d67-46af-9bd1-d6b577b868cb.jpg)
-
 ## *:information_source: Inventoryweb*
 Aplikasi ini bisa anda gunakan untuk mengontrol stock barang yang anda miliki sehingga jelas transaksi keluar dan masuk barang tersebut juga mempermudah kontrol barang tersebut.
 <br><br>
-Untuk tampilannya saya sudah pasang template admin `bootstrap v5` yaitu `sash admin`.
 
 ## *:sparkles: Fitur*
 * **Dashboard**
@@ -85,8 +82,4 @@ username: `manajer` password: `12345678`
 ![dbb52cc8-fc45-4abe-a9dd-4ffcf5107c4c](https://user-images.githubusercontent.com/47371845/204021151-76cec801-0b2d-4cf1-9282-334f88865cf3.png)
 ![f23b34f3-4a46-4559-9943-a0a3d3f80178](https://user-images.githubusercontent.com/47371845/204021178-d7ad1914-996e-459f-bd69-ec6424a84b34.png)
 ![f8a4bf7a-7732-408c-b462-84954ec703c3](https://user-images.githubusercontent.com/47371845/204021197-a312efcd-12b6-4317-b0a1-8a917d4d5b88.png)
-![be176cc7-11f6-4f80-a3d6-bae661c55d35](https://user-images.githubusercontent.com/47371845/204021223-6f637c19-d8ba-4c11-8151-38abd5093a8a.png)
-![836091d5-1691-412f-8b70-10c1919c2343](https://user-images.githubusercontent.com/47371845/204021241-971d9e7d-cb32-4dc3-b059-a8840bc7d3c7.png)
-![dcda1efd-7060-42cb-845e-d6b1c5dd85b7](https://user-images.githubusercontent.com/47371845/204021259-67c28a2c-141f-4632-9c7f-0be855aa1b46.png)
-![d50d104b-6d77-499a-be5b-eb80ad6f6c35](https://user-images.githubusercontent.com/47371845/204021276-fd3219b8-37fb-42a6-852a-6e20e3206b48.png)
 
